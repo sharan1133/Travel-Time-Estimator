@@ -1,0 +1,10 @@
+flask
+geopy
+jinja2
+xgboost
+geocoder
+pandas
+scikit-learn
+numpy
+pickle-mixin
+datetime
